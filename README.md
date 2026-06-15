@@ -5,7 +5,7 @@ Basic Game Handling,
 Arguments,
 If Statements ,
 Strings ,
-Functions,
+Functions
 _______________________________
 STATS
 _____________________________
