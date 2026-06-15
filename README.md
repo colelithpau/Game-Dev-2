@@ -1,14 +1,14 @@
 CONCEPTS
 _______________________________
-Basic Game Handling
-Arguments
-If Statements 
-Strings 
-Functions
+Basic Game Handling,
+Arguments,
+If Statements ,
+Strings ,
+Functions,
 
 STATS
 _____________________________
-705 lines of python codes
+705 lines of python codes,
 26 levels completed
 
 _____________________________
