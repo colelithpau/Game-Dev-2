@@ -1,3 +1,4 @@
+_______________________________
 CONCEPTS
 _______________________________
 Basic Game Handling,
@@ -5,7 +6,7 @@ Arguments,
 If Statements ,
 Strings ,
 Functions,
-
+_______________________________
 STATS
 _____________________________
 705 lines of python codes,
