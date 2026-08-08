@@ -36,14 +36,14 @@ To test, copy the code from the .py or .js file.
 Paste it into the CodeCombat editor for the corresponding level.
 
 Run the code to see the game logic in action!
-##CONCEPTS
+## 💭 CONCEPTS
 Basic Game Handling,
 Arguments,
 If Statements ,
 Strings ,
 Functions
 
-##STATS
+## 📊 STATS
 705 lines of python codes,
 26 levels completed
 
