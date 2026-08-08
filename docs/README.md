@@ -48,6 +48,16 @@ Functions
 705 lines of python codes,
 26 levels completed
 
-_____________________________
-Link to play the game project: 
+## 🚀 How to Run
+These scripts are designed to run within the CodeCombat Game Development engine.
+
+To test, copy the code from the .py or .js file.
+
+Paste it into the CodeCombat editor for the corresponding level.
+
+Run the code to see the game logic in action!
+
+## Link to play the game project: 
 https://codecombat.com/play/game-dev-level/6a1933178d7def41d898b39d
+
+“Code is not just for solving problems; it’s for creating experiences.”
