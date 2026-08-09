@@ -28,14 +28,6 @@ game-dev-2/: Implementing collision listeners and score tracking.
 
 game-dev-3/: Advanced game loops and dynamic entity movement.
 
-🚀 How to Run
-These scripts are designed to run within the CodeCombat Game Development engine.
-
-To test, copy the code from the .py or .js file.
-
-Paste it into the CodeCombat editor for the corresponding level.
-
-Run the code to see the game logic in action!
 
 ## 💭 CONCEPTS
 Basic Game Handling,
