@@ -50,7 +50,7 @@ Paste it into the CodeCombat editor for the corresponding level.
 Run the code to see the game logic in action!
 
 ```
-## Link to play the game project: 
+Link to play the game project: 
 https://codecombat.com/play/game-dev-level/6a1933178d7def41d898b39d
 ```
 
